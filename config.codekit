@@ -283,6 +283,17 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/img\/kochen.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 56835,
+		"inputAbbreviatedPath": "\/img\/kochen.jpg",
+		"outputAbbreviatedPath": "\/img\/kochen.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/img\/mcfit.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
